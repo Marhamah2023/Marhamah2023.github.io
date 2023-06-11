@@ -1,0 +1,24 @@
+/* body {
+    min-height: 2000px;
+} */
+
+.jumbotron {
+    padding-top: 6rem;
+    background-color: #e2edff;
+}
+
+#projects {
+    background-color: #e2edff;
+}
+
+
+footer a {
+    text-decoration: none;
+    list-style-type: none;
+    color: white;
+    font-weight: bold;
+}
+
+section {
+    padding-top: 5rem;
+}
